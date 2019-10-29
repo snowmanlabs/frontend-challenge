@@ -10,7 +10,7 @@ Your team is developing an application for users to create and explore tourist s
 
 ## Non-functional specs
 
-* You may choose between JavaScript and TypeScript.
+* You may use plain Javascript, but we encourage you to use TypeScript if you feel comfortable to.
 * You may choose to use a framework, but if you are feeling really badass, do without it.
 * You may use a css pre-processor, webpack, babel and others.
 * You may use any piece of technology you think is necessary or cool.
