@@ -63,7 +63,7 @@ The evaluation will follow the criteria below.
 * Full operation.
 * Robustness.
 * Scalability.
-
+Decision making and your reasons behind your choices..
 
 ## Bonus Deliverable
 
