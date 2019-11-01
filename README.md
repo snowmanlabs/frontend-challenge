@@ -22,8 +22,8 @@ Your team is developing an application for users to create and explore tourist s
 
 ## User Stories
 
-* As a anonymous user, I want to sign up using my email and password.
-* As a anonymous user, I want to sign in using my email and password.
+* As a anonymous user, I want to sign up using my Facebook account.
+* As a anonymous user, I want to sign in using my Facebook account.
 * As a logged in user, I want to see a list of tourist spots in a 5 km radius from a given location.
 * As a logged in user, I want to search for tourist spots by name.
 * As a logged in user, I want to register a tourist spot (picture, name, geographical location and category).
