@@ -1,6 +1,47 @@
+<br />
+<p align="center">
+  <a href="https://github.com/snowmanlabs/frontend-challenge">
+    <img src="assets/logo.png" alt="Logo" width="191" height="131">
+  </a>
+
+  <h3 align="center">Front-end Challenge</h3>
+
+  <p align="center">
+    How you solve problems?
+    <br />
+    <br />
+    <a href="https://www.snowmanlabs.com.br/snow-team/">SnowTeam</a>
+    ·
+    <a href="https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge">Questions about the challenge</a>
+    ·
+    <a href="https://invis.io/HXUH9OCD476">All Invision Screenshots</a>
+  </p>
+</p>
+
+## Table of Contents
+- [Challenge Description](#challenge-description)
+  - [Goal](#goal)
+  - [Non-functional specs](#non-functional-specs)
+  - [User Stories](#user-stories)
+    - [Business Rules](#business-rules)
+  - [Deliverables](#deliverables)
+  - [Evaluation](#evaluation)
+  - [Bonus Deliverable](#bonus-deliverable)
+  - [Questions?](#questions)
+
 # Challenge Description
 
-We want to understand you better, so do not be afraid of failing, this is not a right or wrong matter. Just do your best. Good luck!
+<p align="center">
+    <br/>
+    <a href="https://github.com/snowmanlabs/frontend-challenge"><img src="assets/screenshot.png" alt="Logo" width="800" height="569"/></a>
+    <br/>
+    <a href="https://github.com/snowmanlabs/frontend-challenge">
+        All Invision Screenshots »
+    </a>
+    <br/>
+</p>
+
+We want to understand you better, so do not be afraid of failing, this is not a right or wrong matter. Just do your best. Good luck! :smile:
 
 
 ## Goal
@@ -17,6 +58,7 @@ Your team is developing an application for users to create and explore tourist s
 * It must be builded in components.
 * Serviceless, you need to use the browser's technologies to consume and save data. Use what you prefer. Pure language, libs, tools, you decide.
 * It must be easy to setup and deploy.
+* Use Nunito and Montserrat Fonts.
 * Do your best.
 
 
@@ -69,3 +111,7 @@ Decision making and your reasons behind your choices..
 ## Bonus Deliverable
 
 Beyond your hard skills we are also interested on how you think, the way your code evolves and grows until it's done. So if you are feeling like a [awesome developer streamer](https://github.com/bnb/awesome-developer-streams) :), we would like to see a video of your development process. It would allow us to better understand you and give you a more complete feedback.
+
+## Questions?
+
+If you have some questions about this challenge, you can open a new topic or research about your question in [Dev Challenge forum](https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge).
