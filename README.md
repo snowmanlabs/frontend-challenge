@@ -114,4 +114,4 @@ Beyond your hard skills we are also interested on how you think, the way your co
 
 ## Questions?
 
-If you have some questions about this challenge, you can open a new topic or research about your question in [Dev Challenge forum](https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge).
+If you have some questions about this challenge, you can open a new topic or search for your question in the [Dev Challenge forum](https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge).
