@@ -60,9 +60,9 @@ We want to understand you better, so do not be afraid of failing, this is not a 
 * You may use a css pre-processor, *webpack*, *babel* and *others*.
 * You may use any piece of technology you think is necessary or cool.
 * It must be builded in *components*.
-* Serviceless, you need to use the browser's technologies to consume and save data. Use what you prefer. Pure language, libs, tools, you decide.
-* It must be easy to setup and deploy.
-* Use Nunito and Montserrat Fonts.
+* Serviceless, you need to use the browser's technologies to consume and save data. Use what you prefer. _Pure language_, libs, tools, you decide.
+* It must be easy to setup and deploy. :children_crossing:
+* Use **Nunito** and **Montserrat** Fonts.
 * Do your best.
 
 
@@ -113,7 +113,7 @@ The evaluation will follow the criteria below.
 * :factory: Robustness.
 * :earth_americas: Scalability.
 
-Decision making and your reasons behind your choices...
+*Decision making and your reasons behind your choices...*
 
 ## Bonus Deliverable
 
