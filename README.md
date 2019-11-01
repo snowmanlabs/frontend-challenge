@@ -17,7 +17,6 @@ Your team is developing an application for users to create and explore tourist s
 * It must be builded in components.
 * Serviceless, you need to use the browser's technologies to consume and save data. Use what you prefer. Pure language, libs, tools, you decide.
 * It must be easy to setup and deploy.
-* It must have tests.
 * Do your best.
 
 
@@ -42,7 +41,9 @@ Your team is developing an application for users to create and explore tourist s
 
 ### Business Rules
 
-* Anonymous users can only sign up or sign in.
+* Anonymous users can only see things.
+* Application start with a pre populated data. Places, images, comments and users.
+
 
 
 ## Deliverables
