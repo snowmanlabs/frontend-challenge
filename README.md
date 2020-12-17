@@ -48,11 +48,9 @@ We want to understand you better, so do not be afraid of failing, this is not a 
 
 :snowman: Your team is developing an application and needs to implement a new feature, a Frequently Asked Questions page, and you were assigned to develop this feature.
 
-[Here](https://github.com/snowmanlabs/frontend-challenge/blob/master/assets/questions.txt) you will find a list of questions and answers.
-
 ## Requirements
 
-* You must use our FAQ API (available [here](https://snow-faq-api.herokuapp.com/api/v1/questions/)) for backend requests.
+* You must use our FAQ API (available [here](https://snow-faq-api.herokuapp.com/api/v1/questions/)) for backend requests. It has GET and POST, and auto deletes its updates by each X minutes
 * You may use plain **Javascript**, but we encourage you to use **TypeScript** if you feel comfortable to.
 * You may choose to use a framework (we use Vue.js here, but if you feel more confident using another one, no problem). If you are feeling really :godmode: badass, do it vanilla.
 * You may use a CSS Preprocessor, *webpack*, *Babel* and other tools.
