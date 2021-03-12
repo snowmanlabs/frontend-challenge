@@ -32,7 +32,7 @@
 
 <p align="center">
     <br/>
-    <a href="https://invis.io/HXUH9OCD476">
+    <a href="https://invis.io/5QZR5W4HBXG">
       <img src="assets/screenshot.png" style="max-height: 640px" alt="Logo"/>
     </a>
     <br/>
